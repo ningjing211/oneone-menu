@@ -22,8 +22,8 @@ export default function Home() {
           <div className="flex flex-col gap-2 mb-4">
             <h3 className="text-4xl font-bold">Coffee</h3>
             <div className="flex items-center justify-end">
-              <span className="text-gray-600 mr-2">流滑咖啡</span>
-              <span className="text-xl">★★★</span>
+              {/* <span className="text-gray-600 mr-2">流滑咖啡</span>
+              <span className="text-xl">★★★</span> */}
             </div>
           </div>
 
@@ -35,7 +35,7 @@ export default function Home() {
               </div>
               <div className="flex items-center">
                 <span className="text-2xl font-bold mr-2">$100</span>
-                <span className="w-5 h-5 rounded-full bg-cyan-400 relative before:content-['ICE'] before:absolute before:text-sm before:font-medium before:text-gray-700 before:-top-6 before:right-0"></span>
+                <span className="w-5 h-5 rounded-full bg-cyan-400 relative before:content-[''] before:absolute before:text-sm before:font-medium before:text-gray-700 before:-top-6 before:right-0"></span>
               </div>
             </div>
 
@@ -79,8 +79,8 @@ export default function Home() {
           <div className="flex flex-col gap-2 mb-4">
             <h3 className="text-4xl font-bold">Tea</h3>
             <div className="flex items-center justify-end">
-              <span className="text-gray-600 mr-2">渥染茶</span>
-              <span className="text-xl">★★★</span>
+              {/* <span className="text-gray-600 mr-2">渥染茶</span>
+              <span className="text-xl">★★★</span> */}
             </div>
           </div>
 
@@ -141,8 +141,8 @@ export default function Home() {
           <div className="flex flex-col gap-2 mb-4">
             <h3 className="text-3xl font-bold">Milkshake</h3>
             <div className="flex items-center justify-end">
-              <span className="text-gray-600 mr-2">荒木桑絕版奶昔</span>
-              <span className="text-xl">★★★★★</span>
+              {/* <span className="text-gray-600 mr-2">荒木桑絕版奶昔</span>
+              <span className="text-xl">★★★★★</span> */}
             </div>
           </div>
 
@@ -155,7 +155,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center">
                   <span className="text-2xl font-bold mr-2">$150</span>
-                  <span className="w-5 h-5 rounded-full bg-cyan-400 relative before:content-['ICE'] before:absolute before:text-sm before:font-medium before:text-gray-700 before:-top-6 before:right-0"></span>
+                  <span className="w-5 h-5 rounded-full bg-cyan-400 relative before:content-[''] before:absolute before:text-sm before:font-medium before:text-gray-700 before:-top-6 before:right-0"></span>
                 </div>
               </div>
 
@@ -179,7 +179,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center">
                   <span className="text-2xl font-bold mr-2">$150</span>
-                  <span className="w-5 h-5 rounded-full bg-cyan-400 relative before:content-['ICE'] before:absolute before:text-sm before:font-medium before:text-gray-700 before:-top-6 before:right-0"></span>
+                  <span className="w-5 h-5 rounded-full bg-cyan-400 relative before:content-[''] before:absolute before:text-sm before:font-medium before:text-gray-700 before:-top-6 before:right-0"></span>
                 </div>
               </div>
 
