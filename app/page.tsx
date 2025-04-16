@@ -1,3 +1,5 @@
+'use client'
+
 import Image from "next/image"
 import VideoSection from './components/VideoSection'
 
@@ -68,7 +70,7 @@ export default function Home() {
               </div>
               <div className="flex items-center">
                 <span className="text-2xl font-bold mr-2">$45</span>
-                <span className="w-5 h-5 rounded-full bg-pink-400 relative before:content-['HOT'] before:absolute before:text-sm before:font-medium before:text-gray-700 before:-top-6 before:right-0"></span>
+                <span className="w-5 h-5 rounded-full bg-pink-400 relative before:content-[''] before:absolute before:text-sm before:font-medium before:text-gray-700 before:-top-6 before:right-0"></span>
               </div>
             </div>
           </div>
@@ -92,7 +94,7 @@ export default function Home() {
               </div>
               <div className="flex items-center">
                 <span className="text-2xl font-bold mr-2">$70</span>
-                <span className="w-5 h-5 rounded-full bg-cyan-400 relative before:content-['ICE'] before:absolute before:text-sm before:font-medium before:text-gray-700 before:-top-6 before:right-0"></span>
+                <span className="w-5 h-5 rounded-full bg-cyan-400 relative before:content-[''] before:absolute before:text-sm before:font-medium before:text-gray-700 before:-top-6 before:right-0"></span>
               </div>
             </div>
 
