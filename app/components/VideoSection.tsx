@@ -17,10 +17,16 @@ export default function VideoSection() {
                 modestbranding: 1,
                 rel: 0,
                 showinfo: 0,
-                controls: 1,
+                controls: 0,
+                disablekb: 1,
                 iv_load_policy: 3,
-                fs: 1,
+                fs: 0,
                 playsinline: 1,
+                loop: 1,
+                playlist: 'NU0U5zGC4m8',
+                title: 0,
+                cc_load_policy: 0,
+                color: 'white',
               },
             }}
             className="w-full h-full"
